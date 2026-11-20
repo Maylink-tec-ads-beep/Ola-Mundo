@@ -1,2 +1,3 @@
 # Olá, Mundo
-Repositorio 001 - Olá mundo, primeiro repositorio. Fazendo teste.
+Repositório 001 - Olá mundo, primeiro repositório. Fazendo teste.
+Primeira alteração feita diretamente no repositório do github.
